@@ -1,0 +1,36 @@
+/* Add your own custom css to this file. You may wish to use css !important calls to override css from the template css files.
+----------------------------------------------------------- */
+
+.joomla_sharethis .twtr-widget, .joomla_sharethis .twtr-widget-profile{
+  margin-right: 2em !important;
+  font-size: inherit !important;
+  font-family: inherit !important;  
+}
+
+
+.joomla_sharethis .twtr-widget em{
+  color: #ddd !important;
+}
+
+ul.mostread a{
+  padding-bottom: 0.2em;
+}
+
+.bannergroup{
+  color: rgb(153, 147, 147);
+}
+
+.bannergroup .banneritem a{
+  width: 150px !important;
+  display: block;
+  margin: auto;  
+}
+
+#s5_footer_area2{
+  background-color: #cce7f2;
+}
+
+.float_content p{
+  background-color: #cce7f2;
+}
+
